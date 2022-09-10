@@ -1,4 +1,4 @@
-# Age_Gender_Detector
+# Age_Gender_Detection
 Simple age and gender detector using Machine learning
 ## To simply run this model:
 1. Clone this repository
