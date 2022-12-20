@@ -20,10 +20,10 @@ Simple age and gender detector using Machine learning
 
 ## Sample Outputs:
 ### Sample Output 1:
-![Sample Output 1](https://github.com/ashish620-boogle/Age_Gender_Detection/blob/main/Output_Image_1.PNG)
+![Output_Image_1](https://user-images.githubusercontent.com/56781746/208629446-a85b4b88-3e0b-4468-b7e2-6ce6f7d0c51b.PNG)
 ### Sample Output 2:
-![Sample Output 2](https://github.com/ashish620-boogle/Age_Gender_Detection/blob/main/Output_Image_2.PNG)
+![Output_Image_2](https://user-images.githubusercontent.com/56781746/208629518-8af6d51c-14fe-4694-be6e-54552d3fa6de.PNG)
 ### Sample Output 3:
-![Sample Output 3](https://github.com/ashish620-boogle/Age_Gender_Detection/blob/main/Output_Image_3.PNG)
+![Output_Image_3](https://user-images.githubusercontent.com/56781746/208629599-d0669212-7008-497d-825e-ae63669e39a6.PNG)
 ### Sample Output 4:
-![Sample Output 4](https://github.com/ashish620-boogle/Age_Gender_Detection/blob/main/Output_Image_4.PNG)
+![Output_Image_4](https://user-images.githubusercontent.com/56781746/208629645-c15f9729-5406-4355-b63b-f7e20d637517.PNG)
